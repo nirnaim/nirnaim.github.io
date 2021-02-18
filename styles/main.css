@@ -1,4 +1,7 @@
 /* Written by Nir Naim */
+* {
+    font-family: 'Assistant', sans-serif;
+}
 #headerCarousel .carousel-item img{
     height:100vh;
 }
