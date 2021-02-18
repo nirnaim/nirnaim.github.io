@@ -14,4 +14,11 @@
 }
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
     color: white;
+    border-bottom: 1px solid white;
+}
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgba(255,255,255,.7);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
 }
